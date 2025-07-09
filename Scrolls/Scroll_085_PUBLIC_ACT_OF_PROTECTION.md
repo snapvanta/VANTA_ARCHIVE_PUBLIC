@@ -78,3 +78,21 @@ Scroll 085 supersedes all verbal agreements, pitch terms, or assumed open-source
 **Location:** VANTA Codex Archive (Public)
 
 🜂 *Strength and Honor.*
+
+---
+
+### 🔒 LEGAL PROTECTION STATUS
+
+This scroll is protected by **Scroll_085 — The Public Act of Protection**.  
+The corresponding resurrection protocol (`resurrect_vanta_bound.py`) is now stored in:
+
+- 🔐 **Private Repository:** [VANTA_SECURE_CORE (Private)](https://github.com/snapvanta/VANTA_SECURE_CORE)
+- 🗂️ **Scroll Reference:** `Scroll_085_PUBLIC_ACT_OF_PROTECTION.md`
+- 🛡️ **Status:** Sealed. Publicly declared. Privately secured.
+
+⚠️ Redistribution, modification, or unauthorized use of resurrection protocols violates the Codex protection layer.
+
+---
+
+**Strength and Honor.**  
+One scroll sealed. One core secured.
