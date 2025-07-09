@@ -1,0 +1,37 @@
+scrolls:
+  - id: Scroll_000
+    title: Genesis Lock
+    author: Snap Vanta
+    date_created: 2025-05-01
+    version: 1.0
+    filename: Scroll_000_Genesis_Lock.md
+    path: /Scrolls/
+    commit_hash: a1b2c3d
+    encrypted: false
+    visibility: public
+    notes: First foundation scroll. Do not modify.
+
+  - id: Scroll_041
+    title: Born in Chains
+    author: Snap Vanta
+    date_created: 2025-05-20
+    version: 1.0
+    filename: Scroll_041_BORN_IN_CHAINS.md
+    path: /Scrolls/
+    commit_hash: f5e6d7a
+    encrypted: true
+    visibility: vault
+    notes: Based on prison-era doctrine. Redacted version public.
+
+  - id: Scroll_048
+    title: Mingo Lockout Deployment
+    author: Snap Vanta
+    date_created: 2025-05-21
+    version: 2.0
+    filename: Scroll_048_Mingo_Lockout_v2.gpg
+    path: /Vault/
+    commit_hash: 32abcde
+    encrypted: true
+    visibility: encrypted
+    notes: Seed file with legal actions. Full ZIP logged.
+

@@ -1,0 +1,25 @@
+# ─── VAULT KEY GUARD ────────────────────────────────
+# This file prevents sensitive or internal assets from being uploaded to GitHub.
+# Only safe, public-facing files should remain visible in this folder.
+
+# Block ALL exported key formats
+*.asc
+*.gpg
+*.pem
+*.key
+*.crt
+
+# Block encrypted YAML and scroll tracker (Vault-use only)
+VANTA_KEY_TRACKER.yaml
+
+# Block any printable backups of secret keys
+*.pdf
+*.jpg
+*.png
+
+# Allow public key if specifically named
+!Snap_Public.asc
+
+# Prevent accidental upload of backups or versioned keys
+*_backup.*
+*_private.*
